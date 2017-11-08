@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545278139593",
+    "firebase_url": "https://tutorialcloudfirestore.firebaseio.com",
+    "project_id": "tutorialcloudfirestore",
+    "storage_bucket": "tutorialcloudfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545278139593:android:d7bca916c1340044",
+        "android_client_info": {
+          "package_name": "com.calonga.tutorialcloudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545278139593-u6hchm5qadstlj4b2oontm0qne186oki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.calonga.tutorialcloudfirestore",
+            "certificate_hash": "916483a5dc6af562f3dcd6713a1c4a6ae4418b5d"
+          }
+        },
+        {
+          "client_id": "545278139593-8046gfmt3j00pbrl426eq186u0qpas9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-EjtzOE6SCNw4S6B5oMqWYNvqrV0Tro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545278139593-8046gfmt3j00pbrl426eq186u0qpas9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
